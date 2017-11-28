@@ -8,7 +8,9 @@ title: Example content
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 </div>
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+字体如何影响着我们这一代人的生活？
+
+也许你会想到在日常工作中编辑文档、撰写邮件时可以选用各式字体；也许你会注意到手机和电脑屏幕上各类应用和网页上的字体带给你的不同体验；也许你会在出行的过程中被车站、机场等公共场所的标识字体包围……而当我们身边的媒介愈加多元化，字体又该如何适应不同的显示环境？当全球化成为常态，品牌字体如何在多种文化中传递一致的声音？
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 

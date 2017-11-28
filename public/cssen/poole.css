@@ -45,7 +45,6 @@ html,
 body {
   margin: 0;
   padding: 0;
-  font-family: "Classic Grotesque W01", "Avenir Next", "Segoe UI", "Helvetica Neue", Arial, "Hiragino Sans GB", "PingFang SC", "Heiti SC", "Microsoft YaHei UI", "Microsoft YaHei", "Source Han Sans", sans-serif;
 }
 
 html {
@@ -80,108 +79,104 @@ a:focus {
   text-decoration: underline;
 }
 
-
-/* Headings
--------------------------------------------------------------- */
-
-h1,h2,h3 {
-  font-weight: normal;
-  clear: both;
-}
-
-h4,h5,h6 {
-  font-weight: normal;
-}
-
-/* Text elements
--------------------------------------------------------------- */
-
-p {
-  margin: 0 0 18px 0;
-}
-
-ul {
-  margin: 0 0 18px 1.5em;
-}
-
-ul {
-  list-style: disc;
-}
-
-ol {
-  list-style: decimal;
-  margin-bottom: 1em;
-}
-
-ol ol {
-  list-style: upper-alpha;
-}
-
-ol ol ol {
-  list-style: lower-roman;
-}
-
-ol ol ol ol {
-  list-style: lower-alpha;
-}
-
-ul ul, ol ol, ul ol, ol ul {
-  margin-bottom: 0;
-}
-
-/*dl    {
-  margin: 0 0 1.5em 0;
-}
-dl dt {
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: .5rem;
   font-weight: bold;
-  margin: 18px 0 0 0;
+  line-height: 1.25;
+  color: #313131;
+  text-rendering: optimizeLegibility;
 }
-dd {
-  margin: 0 0 0 1.5em;
-}*/
+h1 {
+  font-size: 2rem;
+}
+h2 {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+}
+h3 {
+  margin-top: 1.5rem;
+  font-size: 1.25rem;
+}
+h4, h5, h6 {
+  margin-top: 1rem;
+  font-size: 1rem;
+}
+
+/* Body text */
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
 
 strong {
+  color: #303030;
+}
+
+
+/* Lists */
+ul, ol, dl {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+dt {
   font-weight: bold;
 }
-
-cite, em, i {
-  font-style: italic;
+dd {
+  margin-bottom: .5rem;
 }
 
-blockquote em, blockquote i, blockquote cite {
-  font-style: normal;
+/* Misc */
+hr {
+  position: relative;
+  margin: 1.5rem 0;
+  border: 0;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #fff;
 }
 
+abbr {
+  font-size: 85%;
+  font-weight: bold;
+  color: #555;
+  text-transform: uppercase;
+}
+abbr[title] {
+  cursor: help;
+  border-bottom: 1px dotted #e5e5e5;
+}
+
+/* Code */
+code,
 pre {
-  line-height: 18px;
-  margin: 15px 0;
-  background-color: white;
-  padding: 0 15px 15px;
-  width: 570px;
-  color: #7d7d7d;
+  font-family: Menlo, Monaco, "Courier New", monospace;
 }
-
 code {
-  font: 14px "Courier New", Monaco, monospace;
-  text-indent: 0px;
-  background-color: white;
+  padding: .25em .5em;
+  font-size: 85%;
+  color: #bf616a;
+  background-color: #f9f9f9;
+  border-radius: 3px;
 }
-
-ins {
-  text-decoration: none;
+pre {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  font-size: .8rem;
+  line-height: 1.4;
+  white-space: pre;
+  white-space: pre-wrap;
+  word-break: break-all;
+  word-wrap: break-word;
+  background-color: #f9f9f9;
 }
-
-sup,sub {
-  height: 0px;
-  line-height: 10px;
-  vertical-align: super;
-  width: 0px;
-}
-
-sup {
-}
-
-sub {
+pre code {
+  padding: 0;
+  font-size: 100%;
+  color: inherit;
+  background-color: transparent;
 }
 
 /* Pygments via Jekyll */
@@ -266,7 +261,7 @@ tbody tr:nth-child(odd) th {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
-}page-title
+}
 
 
 /*
@@ -293,7 +288,7 @@ tbody tr:nth-child(odd) th {
 .container {
   max-width: 38rem;
   padding-left:  1rem;
-  padding-right: 1rem;page-title
+  padding-right: 1rem;
   margin-left:  auto;
   margin-right: auto;
 }
@@ -333,140 +328,20 @@ tbody tr:nth-child(odd) th {
  * page is wrapped in `.page` and is only used on the page layout.
  */
 
-/* .page,
-.post {
-  margin-bottom: 4em;
-} */
-
-/* Blog post or page title */
 .page,
 .post {
-  text-align: left;
-  color: #5c5c5c;
-  margin: 20px 0 15px;
-  text-indent: 2em;
+  margin-bottom: 4em;
 }
 
-.post p {
-  margin: 0.7em 0 0.7em;
-}
-
-.post a:link, .page a:link {
-  color: #5c5c5c;
-  text-decoration: none;
-  border-bottom: 1px solid #a4a4a4;
-}
-
-.post a:visited, .page a:visited {
-  color: #7d7d7d;
-  text-decoration: none;
-  border-bottom: 1px dotted #9f9f9f;
-}
-
-.post a:hover, .page a:hover {
-  color: Black;
-  text-decoration: none;
-  border-bottom: 1px solid black;
-}
-
-.post h1, .post h2 {
-  font-size: 1.5em;
-  font-weight: bold;
-  margin: 0 0 22px 0;
-  padding: 22px 0 0 0;
-}
-
-.post h3, .page h3 {
-  font-weight: bold;
-  margin-bottom: 20px;
-  font-size: 1.2em;
-  color: #1a1a1a;
-  text-indent: 0px;
-  margin-top: 50px;
-}
-
-.post h4, .page h4 {
-  font-weight: bold;
-  font-size: 1em;
-  color: #1a1a1a;
-  text-indent: 0px;
-  clear: both;
-  width: 600px;
-  margin-bottom: 6px;
-}
-
-.post h5, .page h5 {
-  font-size: .75em;
-  text-indent: 0px;
-  clear: both;
-  width: 600px;
-  margin-bottom: 6px;
-  font-weight: bold;
-  color: #4a4a4a;
-}
-
-.post ul {
-  list-style: disc;
-  margin: 0 0 1em;
-  width: 100%;
-  clear: both;
-}
-
-.post ul ul {margin-bottom: 0}
-
-.post li {
-  text-indent: 0;
-  margin: 0 0 0 2em;
-}
-
-.post dl {
-  margin: 18px 103px 18px 0;
-}
-
-.post dt {
-  font-weight: bold;
-  text-indent: 0;
-}
-
-.post dd {
-  margin: 0 0 18px 0;
-}
-/* .page-title,
+/* Blog post or page title */
+.page-title,
 .post-title,
 .post-title a {
   color: #303030;
-  font-weight: bold;
-  font-size: 1.6em;
-  line-weight: 1.5;
-  padding: 2px 0 .3em 0;
-  color: #000;
-  letter-spacing: 1px;
-  width: 80%;
 }
 .page-title,
 .post-title {
   margin-top: 0;
-} */
-.page-title,
-.post-title {
-  font-weight: bold;
-  font-size: 1.6em;
-  line-weight: 1.5;
-  padding: 2px 0 .3em 0;
-  color: #000;
-  letter-spacing: 1px;
-  width: 80%;
-}
-
-
-.page-title a,
-.post-title a {
-  text-decoration: none;
-  color: #000;
-}
-.page-title a:hover,
-.post-title a:hover {
-  border-bottom: 2px solid black;
 }
 
 /* Meta data line below post title */
