@@ -8,8 +8,7 @@ permalink:        pretty
 # Setup
 title:            JackFrank's Blog
 url:              https://JackFrankWen.github.io/
-baseurl:          https://jackfrankwen.github.io/
-
+baseurl:          https://JackFrankWen.github.io/
 future: true
 paginate:         5
 
