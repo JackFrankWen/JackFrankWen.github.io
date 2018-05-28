@@ -1,5 +1,5 @@
 ---
-title: ubuntu修改dns 
+title: ubnuntu 16.0 安装binary node
 categories:
   - Ubuntu
 tags:
