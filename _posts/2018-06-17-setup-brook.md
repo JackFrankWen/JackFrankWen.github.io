@@ -61,13 +61,14 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 ### 第三步
 ubuntu
 ```
-pip install shadowsocks
-sslocal -s ip  -p  port -k "password"
+install brook
+sudo snap install brook
+brook client -l 127.0.0.1:1080 -i 127.0.0.1 -s server_address:port -p password
 ```
 
 window
 下载地址
 
 ```
-https://github.com/qinyuhang/ShadowsocksX-NG-R/releases
+https://github.com/txthinking/brook
 ```
