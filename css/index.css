@@ -10,12 +10,7 @@ html,
 img {
     display: block;
 }
-.bg1 {
-    background: url(../img/bac1.gif) no-repeat;
-}
-.bg2 {
-    background: url(../img/bv2.gif) no-repeat;
-}
+
 #pic_1 {
     width: 6.39rem;
     height: 0.02rem;
