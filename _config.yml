@@ -106,4 +106,4 @@ deploy:
   type: git
   repo: https://github.com/JackFrankWen/JackFrankWen.github.io.git
   branch: main
-  token: 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
+  token: $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
