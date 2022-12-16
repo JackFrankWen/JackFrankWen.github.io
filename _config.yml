@@ -97,9 +97,13 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: bubuzou
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/JackFrankWen/JackFrankWen.github.io.git
+  branch: main
+  token: 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

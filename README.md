@@ -1,3 +1,7 @@
-#扫码看效果
+# readme
 
-![效果](/qrcode.png)
+
+## 开发
+npm run server
+## 发布
+npm run deploy
