@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-12-28T01:57:02.726Z</updated>
+  <updated>2022-12-28T02:29:51.222Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2022/12/16/list/drage/"/>
     <id>http://example.com/2022/12/16/list/drage/</id>
     <published>2022-12-16T05:26:34.530Z</published>
-    <updated>2022-12-28T01:57:02.726Z</updated>
+    <updated>2022-12-28T02:29:51.222Z</updated>
     
     <content type="html"><![CDATA[<table><thead><tr><th>症状</th><th>药</th><th>到期时间</th><th>注意事项</th></tr></thead><tbody><tr><td>头疼脑热发烧止疼</td><td>对乙酰氨基酚,布洛芬 （混悬液）</td><td></td><td></td></tr><tr><td>止泻</td><td>蒙脱石散 最常用的牌子应该是【思密达】</td><td></td><td></td></tr><tr><td>感冒药</td><td></td><td></td><td></td></tr><tr><td>跌打损伤</td><td></td><td></td><td></td></tr><tr><td>伤口杀菌消毒</td><td>碘伏 （注意避光保存）</td><td></td><td></td></tr><tr><td>蚊虫</td><td>炉甘石洗剂</td><td></td><td></td></tr><tr><td>抗过敏</td><td>盐酸西替利秦</td><td></td><td></td></tr><tr><td>皮肤细菌感染</td><td>莫匹罗星软膏</td><td></td><td></td></tr><tr><td>常备医用器材</td><td>体温计 &#x2F;n，，</td><td></td><td></td></tr><tr><td>常备医用器材</td><td>灭菌棉签（有有效期的哦）</td><td></td><td></td></tr><tr><td>常备医用器材</td><td>灭菌纱布和绷带，（有有效期的哦）</td><td></td><td></td></tr><tr><td>常备医用器材</td><td>创口贴</td><td></td><td></td></tr></tbody></table>]]></content>
     
@@ -45,18 +45,18 @@
     
     
     
-    <category term="list" scheme="http://example.com/tags/list/"/>
+    <category term="清单" scheme="http://example.com/tags/%E6%B8%85%E5%8D%95/"/>
     
   </entry>
   
   <entry>
-    <title>厨房</title>
+    <title>粮油标准</title>
     <link href="http://example.com/2022/10/20/kitchen-list/"/>
     <id>http://example.com/2022/10/20/kitchen-list/</id>
     <published>2022-10-20T11:32:05.924Z</published>
-    <updated>2022-12-16T11:14:52.257Z</updated>
+    <updated>2022-12-28T02:29:43.665Z</updated>
     
-    <content type="html"><![CDATA[<table><thead><tr><th>种类</th><th>国家标准</th></tr></thead><tbody><tr><td>五常大米</td><td>GB&#x2F;T19266</td></tr><tr><td>盘锦大米</td><td>GB&#x2F;T 18824</td></tr><tr><td>纯花生油</td><td>GB&#x2F;T 1534-2017  GB 1536</td></tr><tr><td>菜籽油</td><td>GB 1536—2004.</td></tr><tr><td>葵花籽油</td><td>GB&#x2F;T10464</td></tr><tr><td>玉米油</td><td>GB&#x2F;T19111</td></tr></tbody></table>]]></content>
+    <content type="html"><![CDATA[<table><thead><tr><th>种类</th><th>国家标准</th><th>备注</th></tr></thead><tbody><tr><td>五常大米</td><td>GB&#x2F;T19266</td><td></td></tr><tr><td>盘锦大米</td><td>GB&#x2F;T 18824</td><td></td></tr><tr><td>纯花生油</td><td>GB&#x2F;T 1534-2017 GB 1536</td><td></td></tr><tr><td>菜籽油</td><td>GB 1536—2004.</td><td></td></tr><tr><td>葵花籽油</td><td>GB&#x2F;T10464</td><td></td></tr><tr><td>玉米油</td><td>GB&#x2F;T19111</td><td></td></tr><tr><td>高筋面粉</td><td>GB&#x2F;T8607</td><td></td></tr><tr><td>中筋面粉</td><td>GB&#x2F;T1355</td><td>品质高到低，一级粉，二级粉，三级粉</td></tr><tr><td>低筋面粉</td><td>GB&#x2F;T8608</td><td></td></tr></tbody></table>]]></content>
     
     
       
@@ -66,21 +66,21 @@
 &lt;tr&gt;
 &lt;th&gt;种类&lt;/th&gt;
 &lt;th&gt;国家标准&lt;/th&gt;
+&lt;th&gt;备注&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;&lt;tr&gt;
 &lt;td&gt;五常大米&lt;/td&gt;
 &lt;td&gt;GB&amp;#x2F;T19266&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;盘锦大米&lt;/td&gt;
-&lt;td</summary>
+</summary>
       
     
     
     
     
-    <category term="list" scheme="http://example.com/tags/list/"/>
+    <category term="清单" scheme="http://example.com/tags/%E6%B8%85%E5%8D%95/"/>
     
   </entry>
   

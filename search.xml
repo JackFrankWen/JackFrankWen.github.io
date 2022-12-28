@@ -14,7 +14,7 @@
       
         <tags>
             
-            <tag> list </tag>
+            <tag> 清单 </tag>
             
         </tags>
       
@@ -23,17 +23,17 @@
     
     
     <entry>
-      <title>厨房</title>
+      <title>粮油标准</title>
       <link href="/2022/10/20/kitchen-list/"/>
       <url>/2022/10/20/kitchen-list/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th>种类</th><th>国家标准</th></tr></thead><tbody><tr><td>五常大米</td><td>GB&#x2F;T19266</td></tr><tr><td>盘锦大米</td><td>GB&#x2F;T 18824</td></tr><tr><td>纯花生油</td><td>GB&#x2F;T 1534-2017  GB 1536</td></tr><tr><td>菜籽油</td><td>GB 1536—2004.</td></tr><tr><td>葵花籽油</td><td>GB&#x2F;T10464</td></tr><tr><td>玉米油</td><td>GB&#x2F;T19111</td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>种类</th><th>国家标准</th><th>备注</th></tr></thead><tbody><tr><td>五常大米</td><td>GB&#x2F;T19266</td><td></td></tr><tr><td>盘锦大米</td><td>GB&#x2F;T 18824</td><td></td></tr><tr><td>纯花生油</td><td>GB&#x2F;T 1534-2017 GB 1536</td><td></td></tr><tr><td>菜籽油</td><td>GB 1536—2004.</td><td></td></tr><tr><td>葵花籽油</td><td>GB&#x2F;T10464</td><td></td></tr><tr><td>玉米油</td><td>GB&#x2F;T19111</td><td></td></tr><tr><td>高筋面粉</td><td>GB&#x2F;T8607</td><td></td></tr><tr><td>中筋面粉</td><td>GB&#x2F;T1355</td><td>品质高到低，一级粉，二级粉，三级粉</td></tr><tr><td>低筋面粉</td><td>GB&#x2F;T8608</td><td></td></tr></tbody></table>]]></content>
       
       
       
         <tags>
             
-            <tag> list </tag>
+            <tag> 清单 </tag>
             
         </tags>
       
