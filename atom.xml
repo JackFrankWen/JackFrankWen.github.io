@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-12-16T11:01:33.561Z</updated>
+  <updated>2022-12-28T01:57:02.726Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2022/12/16/list/drage/"/>
     <id>http://example.com/2022/12/16/list/drage/</id>
     <published>2022-12-16T05:26:34.530Z</published>
-    <updated>2022-12-16T11:01:33.561Z</updated>
+    <updated>2022-12-28T01:57:02.726Z</updated>
     
-    <content type="html"><![CDATA[<table><thead><tr><th>症状</th><th>药</th><th>到期时间</th><th>注意事项</th></tr></thead><tbody><tr><td>头疼脑热，还有发烧</td><td>对乙酰氨基酚,布洛芬</td><td></td><td></td></tr><tr><td>Content in the first column</td><td>Content in the second column</td><td>答复</td><td>df</td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>]]></content>
+    <content type="html"><![CDATA[<table><thead><tr><th>症状</th><th>药</th><th>到期时间</th><th>注意事项</th></tr></thead><tbody><tr><td>头疼脑热发烧止疼</td><td>对乙酰氨基酚,布洛芬 （混悬液）</td><td></td><td></td></tr><tr><td>止泻</td><td>蒙脱石散 最常用的牌子应该是【思密达】</td><td></td><td></td></tr><tr><td>感冒药</td><td></td><td></td><td></td></tr><tr><td>跌打损伤</td><td></td><td></td><td></td></tr><tr><td>伤口杀菌消毒</td><td>碘伏 （注意避光保存）</td><td></td><td></td></tr><tr><td>蚊虫</td><td>炉甘石洗剂</td><td></td><td></td></tr><tr><td>抗过敏</td><td>盐酸西替利秦</td><td></td><td></td></tr><tr><td>皮肤细菌感染</td><td>莫匹罗星软膏</td><td></td><td></td></tr><tr><td>常备医用器材</td><td>体温计 &#x2F;n，，</td><td></td><td></td></tr><tr><td>常备医用器材</td><td>灭菌棉签（有有效期的哦）</td><td></td><td></td></tr><tr><td>常备医用器材</td><td>灭菌纱布和绷带，（有有效期的哦）</td><td></td><td></td></tr><tr><td>常备医用器材</td><td>创口贴</td><td></td><td></td></tr></tbody></table>]]></content>
     
     
       
@@ -38,9 +38,8 @@
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;&lt;tr&gt;
-&lt;td&gt;头疼脑热，还有发烧&lt;/td&gt;
-&lt;td&gt;对乙酰氨基酚,布洛芬&lt;/td&gt;
-&lt;t</summary>
+&lt;td&gt;头疼脑热发烧止疼&lt;/td&gt;
+&lt;td&gt;对乙酰氨基酚,布洛芬 （混悬液）&lt;/t</summary>
       
     
     
